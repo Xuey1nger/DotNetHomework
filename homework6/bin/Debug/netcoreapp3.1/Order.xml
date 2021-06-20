@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <ordernum>114515</ordernum>
+    <name>家具</name>
+    <count>5</count>
+    <price>1000</price>
+  </Order>
+  <Order>
+    <ordernum>114516</ordernum>
+    <name>零食</name>
+    <count>8</count>
+    <price>100</price>
+  </Order>
+  <Order>
+    <ordernum>114517</ordernum>
+    <name>蔬菜</name>
+    <count>8</count>
+    <price>40</price>
+  </Order>
+</ArrayOfOrder>
